@@ -51,6 +51,9 @@
                 "packages": {
                     "type": "keyword"
                 },
+                "platform": {
+                    "type": "keyword"
+                },
                 "policy_coordinator_idx": {
                     "type": "integer"
                 },
